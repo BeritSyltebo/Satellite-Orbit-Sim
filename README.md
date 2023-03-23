@@ -14,5 +14,7 @@ Assume an Earth-relative orbit is given by the initial orbit elements _a_ = 7300
 2. Translate the {_x(t), x'(t)_} coordinates into the corresponding classical orbit elements {_a_, _e_, _i_, &Omega;, &omega;, _M_<sub>0</sub>}.
 3. Compare the numerically computed _e(t)_ motion to the analytically predicted instantaneous orbit element variations in Eq. (12.87) and the average orbit element variations in Eq. (12.88).
 
+## Project Components
+
 ## References
 Hanspeter Schaub, and John L. Junkins. Analytical Mechanics of Space Systems. American Institute Of Aeronautics And Astronautics, Inc, 2018.
