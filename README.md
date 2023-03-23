@@ -16,5 +16,8 @@ Assume an Earth-relative orbit is given by the initial orbit elements _a_ = 7300
 
 ## Project Components
 
+1. Submitted and updated course report.
+2. MATLAB code used for simulation.
+
 ## References
 Hanspeter Schaub, and John L. Junkins. Analytical Mechanics of Space Systems. American Institute Of Aeronautics And Astronautics, Inc, 2018.
